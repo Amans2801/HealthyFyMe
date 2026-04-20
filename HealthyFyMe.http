@@ -1,0 +1,6 @@
+@HealthyFyMe_HostAddress = http://localhost:5082
+
+GET {{HealthyFyMe_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
